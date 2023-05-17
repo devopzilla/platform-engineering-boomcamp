@@ -1,1 +1,1 @@
-# platform-engineering-zoomcamp
+# platform-engineering-boomcamp
