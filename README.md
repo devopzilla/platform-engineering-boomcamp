@@ -1,1 +1,1 @@
-# platform-engineering-boomcamp
+# platform-engineering-bootcamp
